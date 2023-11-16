@@ -67,7 +67,7 @@ export default function Portfolio() {
                     <div className="d-flex justify-content-between">
                       <a
                         href={project.liveLink}
-                        className="btn btn-primary"
+                        className="btn btn-primary mx-1"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
